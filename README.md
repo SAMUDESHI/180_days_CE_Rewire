@@ -1,60 +1,66 @@
-# 90_Days_Rewire (May 2022 - Mid Aug 2022)
+# Welcome to My 180 Days of Computer Engineering Rewire
 
-So in this 90 days i will be revising DS/Algo along with 10-15 Leetcode question daily just to sharpen my mind and imporve me logical muscle. Aprt from this I will be building 8 Full length projects in different techstack so that I can have tast of different tech stack.
+Hi! I am **Mishal M Udeshi** a 2018 graduate. Currently I am working as a iOS developer. In this 180 days I will mainly focusing on DSA, LeetCode , iOS and backend design with slight focus on frontend.
 
-## List Of Projects along with tech stack
-0) A Market Place based on Web 3.0 (Ether/Solidity)  (May Week 1)
-1) Twitter Clone (SwiftUI/Firebase) (May Week 2)
-2) Online Streaming Service (MERN) (May Week 3)
-3) Pixi Shot (Swift/Deep Learning) (June Week 1)
-4) Amazon Clone (Django/Fast API) (June Week 2)
-5) LinkedIN Clone (SwiftUI/Redux Arch with combine / Fast API) (June Week 3)
-6) Postman Clone (MacOS App Swift) (June Week 4))
-7) Citizen 3.0 (Blockchain) (July Week 3)
+|Topics|ETA  |
+|--|--|
+|DSA Revision| 20-25 Days |
+|LeetCode|4-5 Problems Everyday|
+|iOS Phase 1|15 Days Sprint|
+|iOS Phase 2|15 Days Sprint|
+|iOS Phase 3|15 Days Sprint|
+|iOS Phase 4|15 Days Sprint|
+|iOS Phase 5|15 Days Sprint|
+|Python Basic |15 Days Sprint|
+|FAST APIs|15 Days Sprint|
+|Django|15 Days Sprint|
 
-# Vague Schedule
+Table above shows the learning curve i might take and table below list down the projects I will be making along with this learning curve.
 
-| 1/May/2022   | Planning                   |
-| ------------ | -------------------------- |
-| 2/May/2022   | OOPs Concepts              |
-| 3/May/2022   | Data Types                 |
-| 4/May/2022   | DS : ALL About Array       |
-| 5/May/2022   | DS : Strings               |
-| 6/May/2022   | Sorting Algo               |
-| 7/May/2022   | Binary Search              |
-| 8/May/2022   | Recursion                  |
-| 9/May/2022   | Merge Sort & Quick Sort    |
-| 10/May/2022  | Time Complexity            |
-| 11/May/2022  | Space Complexity           |
-| 12/May/2022  | Linked List                |
-| 13/May/2022  | Stacks                     |
-| 14/May/2022  | Queue                      |
-| 15/May/2022  | Trees                      |
-| 17/May/2022  | Trees                      |
-| 18/May/2022  | HashMaps                   |
-| 19/May/2022  | HashMaps                   |
-| 20/May/2022  | Dynamic Programming        |
-| 21/May/2022  | Dynamic Programming        |
-| 22/May/2022  | Graph                      |
-| 23/May/2022  | Graph                      |
-| 24/May/2022  | Kruskal                    |
-| 25/May/2022  | Prims                      |
-| 26/May/2022  | Dijiktras                  |
-| 27/May/2022  | Topological Sort           |
-| 28/May/2022  | Tries                      |
-| 29/May/2022  | LRUs                       |
-| 30/May/2022  | Advanced Graph             |
-| 31/May/2022  | Advanced Graph             |
-| 1/June/2022  | Advanced Graph             |
-| 2/June/2022  | Concurrent Programming     |
-| 3/June/2022  | Concurrent Programming     |
-| 4/June/2022  | Concurrent Programming     |
-| 5/June/2022  | System Design Master Class |
-| 6/June/2022  | System Design Master Class |
-| 7/June/2022  | System Design Master Class |
-| 8/June/2022  | System Design Master Class |
-| 9/June/2022  | System Design Master Class |
-| 10/June/2022 | System Design Master Class |
-| 11/June/2022 | System Design Master Class |
-| 12/June/2022 | System Design Master Class |
-| 13/June/2022 | System Design Master Class |
+|Project Name| Tech Stack | 
+|--|--|
+| Amazon Web 3.0 [project link](www.googl.com) | Web3.0  |
+| Spotify All Code Design [project link](www.googl.com) | iOS(Swift/UIKit)  |
+| Twitter Clone [project link](www.googl.com) | iOS(Swift/SwiftUI)  |
+| Paytm Clone [project link](www.googl.com) | iOS(Swift/SwiftUI)  |
+| Dukkan Clone Backend[project link](www.googl.com) | Backend (FASTAPI/PYTHON)  |
+| Slack Web 3.0 [project link](www.googl.com) | Web3.0  |
+| Dukkan Clone FrontEnd [project link](www.googl.com) | FrontEnd(Django)  |
+
+I will add more project as some kind of idea or imitation come to my mind. Overall I am looking to make minimum of **18+** projects in this 180 days majorly revolving around iOS and Web 3.0.
+
+**No Screen time post 8 PM expect emergency**
+
+## My 24 Hours on Normal Day
+| Time               |       Task                   |
+|----------------|-------------------------------|-----------------------------|
+|4 AM - 4.30 AM |`Meditation 🧘‍♀️ `            |
+|4.30 AM - 4.45 AM |` Journal  `            |
+|4.45 AM - 6.30 AM |`Personal Projects`            |
+|6.30 AM - 7.30 AM |`Cycling 🚴 & Getting Ready `            |
+|7.30 AM - 1.30 PM |`Office Work`            |
+|1.30 PM - 2.30 AM |`Food & Power Nap 😴 `            |
+|2.30 PM - 4 PM |Rewire Slot 1            |
+|4 PM - 5.30 PM |`Office Work`            |
+|5.30 PM - 7.30 PM |`Personal Projects`            |
+|7.30 PM - 8.30 PM |`Food & Reflection of day`            |
+|8.30 PM - 9.00 PM |`Meditation 🧘‍♀️`            |
+|9 PM - 4 AM |`Sleep`            |
+
+## My 24 Hours on Weekend (3 Weekend of every month Will take off )
+| Time               |       Task                   |
+|----------------|-------------------------------|-----------------------------|
+|4 AM - 4.30 AM |`Meditation 🧘‍♀️ `            |
+|4.30 AM - 4.45 AM |` Journal  `            |
+|4.45 AM - 6.30 AM |`Personal Projects`            |
+|6.30 AM - 7.30 AM |`Cycling 🚴 & Getting Ready `            |
+|7.30 AM - 10.30 AM| Rewire Slot 1|
+|10.30 AM - 1.30 PM |`Personal Projects`            |
+|1.30 PM - 2.30 AM |`Food & Power Nap 😴 `            |
+|2.30 PM - 5.30 PM |Rewire Slot 2            |
+|5.30 PM - 7.30 PM |Movie/Web Series Time            |
+|7.30 PM - 8.30 PM |`Food & Reflection of day`            |
+|8.30 PM - 9.00 PM |`Meditation 🧘‍♀️`            |
+|9 PM - 4 AM |`Sleep`            |
+
+Will Be adding more details as I continue my journey. Hopping of making this a huge success.

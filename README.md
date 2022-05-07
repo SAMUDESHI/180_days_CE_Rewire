@@ -33,7 +33,7 @@ I will add more project as some kind of idea or imitation come to my mind. Overa
 
 ## My 24 Hours on Normal Day
 | Time               |       Task                   |
-|----------------|-------------------------------|-----------------------------|
+|--|--|
 |4 AM - 4.30 AM |`Meditation 🧘‍♀️ `            |
 |4.30 AM - 4.45 AM |` Journal  `            |
 |4.45 AM - 6.30 AM |`Personal Projects`            |
@@ -49,7 +49,7 @@ I will add more project as some kind of idea or imitation come to my mind. Overa
 
 ## My 24 Hours on Weekend (3 Weekend of every month Will take off )
 | Time               |       Task                   |
-|----------------|-------------------------------|-----------------------------|
+|--|--|
 |4 AM - 4.30 AM |`Meditation 🧘‍♀️ `            |
 |4.30 AM - 4.45 AM |` Journal  `            |
 |4.45 AM - 6.30 AM |`Personal Projects`            |

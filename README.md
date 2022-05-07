@@ -1,6 +1,6 @@
 # Welcome to My 180 Days of Computer Engineering Rewire
 
-Hi! I am **Mishal M Udeshi** a 2018 graduate. Currently I am working as a iOS developer. In this 180 days I will mainly focusing on DSA, LeetCode , iOS and backend design with slight focus on frontend.
+Hi! I am **Mishal M Udeshi** a 2018 graduate. Currently I am working as a iOS developer. In this 180 days I will mainly focus on DSA, LeetCode , iOS and backend design with slight focus on frontend.
 
 |Topics|ETA  |
 |--|--|
